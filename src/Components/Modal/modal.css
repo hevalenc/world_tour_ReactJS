@@ -1,0 +1,46 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+}
+  
+.modal-main {
+    position:fixed;
+    width: auto;
+    height: auto;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.modal-image{
+    height: 600px;
+}
+
+.display-block {
+    display: block;
+}
+  
+.display-none {
+    display: none;
+}
+
+.modal-btn{
+    position: relative;
+    float: right;
+    z-index: 1;
+    margin: 10px 180px 0 0;
+    border-radius: 20%;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+
+.modal-btn:hover{
+    background-color: red;
+    cursor: pointer;
+}

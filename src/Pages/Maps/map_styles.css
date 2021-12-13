@@ -1,0 +1,137 @@
+.info-button{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    background-color: red;
+    color: white;
+}
+
+.marker{
+    position: absolute;
+    cursor: pointer;
+    width: 20px;
+    height: 35px;
+}
+
+.marker:hover{
+    -webkit-transform:scale(1.60); /* Safari and Chrome */
+    -moz-transform:scale(1.60); /* Firefox */
+    -ms-transform:scale(1.60); /* IE 9 */
+    -o-transform:scale(1.60); /* Opera */
+    transform:scale(1.60);
+}
+
+.canada{
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+.iceland{
+    margin-top: 70px;
+    margin-left: 320px;
+}
+
+.usa{
+    margin-top: 140px;
+    margin-left: 150px;
+}
+
+.mexico{
+    margin-top: 180px;
+    margin-left: 130px;
+}
+
+.venezuela{
+    margin-top: 230px;
+    margin-left: 205px;
+}
+
+.brazil{
+    margin-top: 280px;
+    margin-left: 240px;
+}
+
+.portugal{
+    margin-top: 143px;
+    margin-left: 338px;
+}
+
+.spain{
+    margin-top: 145px;
+    margin-left: 350px;
+}
+
+.france{
+    margin-top: 125px;
+    margin-left: 355px;
+}
+
+.netherlands{
+    margin-top: 110px;
+    margin-left: 365px;
+}
+
+.germany{
+    margin-top: 115px;
+    margin-left: 380px;
+}
+
+.serbia{
+    margin-top: 130px;
+    margin-left: 398px;
+}
+
+.greece{
+    margin-top: 137px;
+    margin-left: 410px;
+}
+
+.mauritania{
+    margin-top: 195px;
+    margin-left: 330px;
+}
+
+.botswana{
+    margin-top: 295px;
+    margin-left: 405px;
+}
+
+.southafrica{
+    margin-top: 305px;
+    margin-left: 420px;
+}
+
+.azerbaijan{
+    margin-top: 137px;
+    margin-left: 455px;
+}
+
+.saudiarabia{
+    margin-top: 185px;
+    margin-left: 455px;
+}
+
+.russia{
+    margin-top: 105px;
+    margin-left: 435px;
+}
+
+.china{
+    margin-top: 160px;
+    margin-left: 600px;
+}
+
+.myanmar{
+    margin-top: 182px;
+    margin-left: 568px;
+}
+
+.indonesia{
+    margin-top: 240px;
+    margin-left: 615px;
+}
+
+.australia{
+    margin-top: 320px;
+    margin-left: 660px;
+}
